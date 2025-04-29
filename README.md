@@ -1,2 +1,2 @@
 # Predicting-Diabetes
-Predicting Diabetes Onset Using Machine Learning
+Developing a Machine Learning Classifier to Predict Diabetes Diagnosis Based on Patient Data
